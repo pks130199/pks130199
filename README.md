@@ -1,16 +1,25 @@
-## ✨ Hi 👋, I'm Priyanka Kumari 
+# 👋 Hi, I'm Priyanka Kumari!
 
-<!--
-**pks130199/pks130199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Data Enthusiast
+Welcome to my GitHub profile! I am passionate about turning raw numbers into meaningful stories and visual insights. I love working with data to solve problems, uncover trends, and support smart decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills & Tools
+* **Data Visualization & BI:** Power BI Desktop, DAX, Power Query
+* **Database & Querying:** SQL, Excel (Advanced Functions & Pivot Tables)
+* **Programming:** Python
+* **Version Control & Documentation:** Git, GitHub, Markdown
+
+---
+
+### 💡 What I Do
+* 🔍 **Analyze & Model Data:** Transforming unstructured dataset rows into structured analytical views.
+* 📈 **Build Interactive Dashboards:** Designing user-friendly visual reports focused on key performance metrics.
+* 🤝 **Continuous Learning:** Exploring new techniques in data analytics, visual design, and data storytelling.
+
+---
+
+### 🌐 Let's Connect!
+Thanks for stopping by! Feel free to explore my repositories above to see my latest work and analytics projects.💫
+
